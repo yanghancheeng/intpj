@@ -8,5 +8,3 @@ c=a*b
 print("666")
 
 print("Head")
-
-print("入暂存区")
