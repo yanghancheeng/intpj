@@ -8,3 +8,7 @@ c=a*b
 print("666")
 
 print("Head")
+
+print("再入暂存区")
+
+print("提交到远程库")
